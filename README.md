@@ -1,8 +1,8 @@
 # Aaron Bart-Addison
 ### **Web Developer**
 
-Email: abaddison16@outlook.com
-Phone: 347-722-0671
+:email: abaddison16@outlook.com
+:iphone: 347-722-0671
 ___
 [Portfolio](https://ronaddy.github.io)
 [LinkedIn](https://linkedin.com/in/abaddison16/)

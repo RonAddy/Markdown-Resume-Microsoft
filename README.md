@@ -1,5 +1,5 @@
-# Aaron Bart-Addison
-### **Web Developer**
+# Aaron Bart-Addison 
+### :computer: **Web Developer** :computer:
 
 :email: abaddison16@outlook.com
 :iphone: 347-722-0671

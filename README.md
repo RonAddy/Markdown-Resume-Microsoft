@@ -111,29 +111,13 @@ May 2017 to July 2017
 ___
 
 ## Skills
-Front-End
-Javascript
-React
-HTML
-CSS
-jQuery
-
-Back-End
-Ruby On Rails
-Express
-Node
-SQL
-
-IT
-JIRA
-Okta
-Autotask Endpoint Mgmt.
-Active Directory
-
-Design
-Adobe Photoshop
-SketchUp
-AutoCAD
+|Front-End| Back-End | IT | Design|
+|---------|----------|----|-------|
+|Javascript|Ruby On Rails|JIRA|Adobe Photoshop
+|React|Express|Okta|SketchUp
+|HTML|Node|Autotask Endpoint Mgmt.|AutoCAD
+|CSS|SQL|Active Directory
+|jQuery|
 
 ___
 

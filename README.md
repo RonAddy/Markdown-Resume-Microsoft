@@ -21,13 +21,13 @@ _Web Development Immersive_
 <br>
 2017
 
-:battery: ### **NPower**
+### :battery: **NPower**
 <br>
 _A+ Certification_
 <br>
 2017
 
-:mortar_board: ### **Lafayette College**
+### :mortar_board: **Lafayette College**
 <br>
 _B.A Engineering Studies_
 <br>

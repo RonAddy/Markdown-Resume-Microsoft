@@ -9,11 +9,11 @@ ___
 [Github](https://github.com/RonAddy)
 ___
 
-A dedicated tech enthusiast, with an IT and management background, seeking to utilize skills in a Web Developer role. Significant application of Front and Back-End development, User Experience, and Design best practices.  Accomplished team leader with strong collaboration skills; proficient in individual and team projects. Experienced with the Software Development Life Cycle and MVC design pattern.
+A dedicated tech enthusiast, with an IT and management background, seeking to utilize skills in a Software Engineering role. Significant application of Front and Back-End development, User Experience, and Design best practices.  Accomplished team leader with strong collaboration skills; proficient in individual and team projects. Experienced with the Software Development Life Cycle and MVC design pattern.
 
 ***
 
-Education
+## Education
 
 General Assembly/Per Scholas
 Web Development Immersive
@@ -28,9 +28,8 @@ B.A Engineering Studies
 Architecture Minor
 2016
 
-Employment 
+## Web Development 
 
-Web Development 
 General Assembly
 Instructional Associate
 New York, NY
@@ -70,7 +69,8 @@ December 2015 to January 2016
 -Presented numerous start-up ideas to with team members and CEO's of GlooPen
 
 
-Information Technology
+## Information Technology
+
 AIS
 Field Technician
 New York, NY
@@ -91,7 +91,7 @@ May 2017 to July 2017
 
 -Provided technical support for software and hardware issues to users onsite and remotely 
 
-Skills
+## Skills
 Front-End
 Javascript
 React
@@ -116,7 +116,7 @@ Adobe Photoshop
 SketchUp
 AutoCAD
 
-Projects
+## Projects
 [New Easton Area Community Center](https://www.youtube.com/watch?v=1DJS8skHULk)
 January 2016 to May 2016
 
@@ -127,7 +127,7 @@ August 2015 to December 2015
 January 2013 to May 2013
 
 
-Activities
+## Activities
 
 Posse Foundation
 Alumni

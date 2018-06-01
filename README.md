@@ -37,44 +37,45 @@ _Architecture Minor_
 
 ## Web Development 
 
-General Assembly
-Instructional Associate
+**General Assembly**
+_Instructional Associate_
 New York, NY
 March 2017 to Current
 
--Instruct and mentor students throughout 12-week immersive course
++Instruct and mentor students throughout 12-week immersive course
 
--Assist in teaching students Web Development concepts and languages
++Assist in teaching students Web Development concepts and languages
 
--Provide project management support for students during project weeks
++Provide project management support for students during project weeks
 
--Contribute to the development of immersive course curriculum 
++Contribute to the development of immersive course curriculum 
 
 
-LionBot
-Developer
+**LionBot**
+_Developer_
 New York, NY
 November 2017
--Contributed to front-end structure and styling through numerous peer-programming sessions
 
--Collaborated with two developers and a UX team to design a chatbot for twitch
++Contributed to front-end structure and styling through numerous peer-programming sessions
 
--Constructed main functionalities in back-end (express) for app
++Collaborated with two developers and a UX team to design a chatbot for twitch
 
--Assisted with testing and deployment to Heroku
++Constructed main functionalities in back-end (express) for app
+
++Assisted with testing and deployment to Heroku
 
 **Project was created while at GA**
 
-GlooPen
-Technology Extern
+**GlooPen**
+_Technology Extern_
 Easton, PA
 December 2015 to January 2016
--Planned and taught constructive lessons on architecture, elements of engineering studies useful for coding design
 
--Reviewed aspects of intellectual property rights, patents, legal constraints and utilizing advertising for the app
++Planned and taught constructive lessons on architecture, elements of engineering studies useful for coding design
 
--Presented numerous start-up ideas to with team members and CEO's of GlooPen
++Reviewed aspects of intellectual property rights, patents, legal constraints and utilizing advertising for the app
 
++Presented numerous start-up ideas to with team members and CEO's of GlooPen
 
 ## Information Technology
 

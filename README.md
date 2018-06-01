@@ -34,6 +34,17 @@ _Architecture Minor_
 
 ___
 
+## Skills
+|Front-End| Back-End | IT | Design|
+|---------|----------|----|-------|
+|Javascript|Ruby On Rails|JIRA|Adobe Photoshop
+|React|Express|Okta|SketchUp
+|HTML|Node|Autotask Endpoint Mgmt.|AutoCAD
+|CSS|SQL|Active Directory
+|jQuery|
+___
+
+
 ## Web Development 
 
 ### **General Assembly**
@@ -107,17 +118,6 @@ May 2017 to July 2017
 * Utilized JIRA ticketing system to report, resolve, elevate and monitor tickets sent by users 
 
 * Provided technical support for software and hardware issues to users onsite and remotely 
-
-___
-
-## Skills
-|Front-End| Back-End | IT | Design|
-|---------|----------|----|-------|
-|Javascript|Ruby On Rails|JIRA|Adobe Photoshop
-|React|Express|Okta|SketchUp
-|HTML|Node|Autotask Endpoint Mgmt.|AutoCAD
-|CSS|SQL|Active Directory
-|jQuery|
 
 ___
 

@@ -15,12 +15,12 @@ A dedicated tech enthusiast, with an IT and management background, seeking to ut
 
 ## Education
 
-### **General Assembly/Per Scholas**
+### [**General Assembly/Per Scholas**](https://perscholas.org/apply/codebridge)
 _Web Development Immersive_
 <br>
 2017
 
-### :battery: **NPower**
+### :battery: [**NPower**](http://www.npower.org/)
 _A+ Certification_
 <br>
 2017
@@ -47,7 +47,7 @@ ___
 
 ## Web Development 
 
-### **General Assembly**
+### [**General Assembly**](https://generalassemb.ly/education/web-development-immersive)
 New York, NY
 <br>
 _Instructional Associate_

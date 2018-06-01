@@ -3,10 +3,11 @@
 
 Email: abaddison16@outlook.com
 Phone: 347-722-0671
+___
 [Portfolio](ronaddy.github.io)
 [LinkedIn](linkedin.com/in/abaddison16/)
 [Github](github.com/RonAddy)
----
+___
 A dedicated tech enthusiast, with an IT and management background, seeking to utilize skills in a Web Developer role. Significant application of Front and Back-End development, User Experience, and Design best practices.  Accomplished team leader with strong collaboration skills; proficient in individual and team projects. Experienced with the Software Development Life Cycle and MVC design pattern.
 
 Education

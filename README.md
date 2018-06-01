@@ -15,19 +15,19 @@ A dedicated tech enthusiast, with an IT and management background, seeking to ut
 
 ## Education
 
-**General Assembly/Per Scholas**
+### **General Assembly/Per Scholas**
 <br>
 _Web Development Immersive_
 <br>
 2017
 
-:battery:**NPower**
+:battery: ### **NPower**
 <br>
 _A+ Certification_
 <br>
 2017
 
-:mortar_board:**Lafayette College**
+:mortar_board: ### **Lafayette College**
 <br>
 _B.A Engineering Studies_
 <br>
@@ -55,7 +55,7 @@ March 2017 to Current
 * Contribute to the development of immersive course curriculum 
 
 
-### **LionBot**
+### [**LionBot**](https://github.com/k1bs/lionbot)
 New York, NY
 <br>
 _Developer_
@@ -154,7 +154,7 @@ ___
 
 ## Activities
 
-### **Posse Foundation**
+### [**Posse Foundation**](https://www.possefoundation.org/)
 _Alumni_
 * Attended weekly workshops designed around team building and addressing current issues of race, class, and gender
 

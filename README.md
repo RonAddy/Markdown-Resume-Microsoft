@@ -39,23 +39,23 @@ ___
 
 ## Web Development 
 
-**General Assembly**
+### **General Assembly**
 New York, NY
 <br>
 _Instructional Associate_
 <br>
 March 2017 to Current
 
-+Instruct and mentor students throughout 12-week immersive course
+* Instruct and mentor students throughout 12-week immersive course
 
-+Assist in teaching students Web Development concepts and languages
+* Assist in teaching students Web Development concepts and languages
 
-+Provide project management support for students during project weeks
+* Provide project management support for students during project weeks
 
-+Contribute to the development of immersive course curriculum 
+* Contribute to the development of immersive course curriculum 
 
 
-**LionBot**
+### **LionBot**
 New York, NY
 <br>
 _Developer_
@@ -72,7 +72,7 @@ November 2017
 
 **Project was created while at GA**
 
-**GlooPen**
+### **GlooPen**
 Easton, PA
 <br>
 _Technology Extern_
@@ -87,17 +87,21 @@ December 2015 to January 2016
 
 ## Information Technology
 
-AIS
-Field Technician
+### **AIS**
 New York, NY
+<br>
+Field Technician
+<br>
 July 2017 to Current
 * Deliver desktop checkouts and provide user support to employees after desk and computers have been exchanged or repaired
 
 * Assist with technical support to various companies, including Bloomberg, Medidata, BBH, Blue Apron & others
 
-ASPCA
-Help Desk Intern
+### **ASPCA**
 New York, NY
+<br>
+Help Desk Intern
+<br>
 May 2017 to July 2017
 * Completed installation and maintenance of desktops, laptops, printers, polycoms, webcams, docking stations and other equipment
 

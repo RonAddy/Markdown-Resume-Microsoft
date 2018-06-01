@@ -62,13 +62,13 @@ _Developer_
 <br>
 November 2017
 
-+Contributed to front-end structure and styling through numerous peer-programming sessions
+* Contributed to front-end structure and styling through numerous peer-programming sessions
 
-+Collaborated with two developers and a UX team to design a chatbot for twitch
+* Collaborated with two developers and a UX team to design a chatbot for twitch
 
-+Constructed main functionalities in back-end (express) for app
+* Constructed main functionalities in back-end (express) for app
 
-+Assisted with testing and deployment to Heroku
+* Assisted with testing and deployment to Heroku
 
 **Project was created while at GA**
 
@@ -79,11 +79,11 @@ _Technology Extern_
 <br>
 December 2015 to January 2016
 
-+Planned and taught constructive lessons on architecture, elements of engineering studies useful for coding design
+* Planned and taught constructive lessons on architecture, elements of engineering studies useful for coding design
 
-+Reviewed aspects of intellectual property rights, patents, legal constraints and utilizing advertising for the app
+* Reviewed aspects of intellectual property rights, patents, legal constraints and utilizing advertising for the app
 
-+Presented numerous start-up ideas to with team members and CEO's of GlooPen
+* Presented numerous start-up ideas to with team members and CEO's of GlooPen
 
 ## Information Technology
 
@@ -91,21 +91,21 @@ AIS
 Field Technician
 New York, NY
 July 2017 to Current
--Deliver desktop checkouts and provide user support to employees after desk and computers have been exchanged or repaired
+* Deliver desktop checkouts and provide user support to employees after desk and computers have been exchanged or repaired
 
--Assist with technical support to various companies, including Bloomberg, Medidata, BBH, Blue Apron & others
+* Assist with technical support to various companies, including Bloomberg, Medidata, BBH, Blue Apron & others
 
 ASPCA
 Help Desk Intern
 New York, NY
 May 2017 to July 2017
--Completed installation and maintenance of desktops, laptops, printers, polycoms, webcams, docking stations and other equipment
+* Completed installation and maintenance of desktops, laptops, printers, polycoms, webcams, docking stations and other equipment
 
--Managed user accounts, passwords, and domain access using Active Directory, AEM, and ASPCA administrative privileges 
+* Managed user accounts, passwords, and domain access using Active Directory, AEM, and ASPCA administrative privileges 
 
--Utilized JIRA ticketing system to report, resolve, elevate and monitor tickets sent by users 
+* Utilized JIRA ticketing system to report, resolve, elevate and monitor tickets sent by users 
 
--Provided technical support for software and hardware issues to users onsite and remotely 
+* Provided technical support for software and hardware issues to users onsite and remotely 
 
 ___
 

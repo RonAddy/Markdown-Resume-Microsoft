@@ -16,16 +16,23 @@ A dedicated tech enthusiast, with an IT and management background, seeking to ut
 ## Education
 
 **General Assembly/Per Scholas**
+<br>
 _Web Development Immersive_
+<br>
 2017
 
-NPower
-A+ Certification
+**NPower**
+<br>
+_A+ Certification_
+<br>
 2017
 
-Lafayette College
-B.A Engineering Studies
-Architecture Minor
+**Lafayette College**
+<br>
+_B.A Engineering Studies_
+<br>
+_Architecture Minor_
+<br>
 2016
 
 ## Web Development 

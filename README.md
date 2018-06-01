@@ -142,25 +142,29 @@ ___
 
 ## Projects
 [New Easton Area Community Center](https://www.youtube.com/watch?v=1DJS8skHULk)
+<br>
 January 2016 to May 2016
 
 [Karl Stirner Arts Trail Musical Playground](https://sites.lafayette.edu/egrs451-fa15/ksat-playground/)
+<br>
 August 2015 to December 2015
 
 ["Resetting the Table in The Lehigh Valley"](https://sustainability.lafayette.edu/wp-content/uploads/sites/19/2016/03/Resetting-the-Table-in-the-Lehigh-Valley-Final-Print-Version-June-2014.pdf)
+<br>
 January 2013 to May 2013
 
+___
 
 ## Activities
 
-Posse Foundation
-Alumni
--Attended weekly workshops designed around team building and addressing current issues of race, class, and gender
+### **Posse Foundation**
+_Alumni_
+* Attended weekly workshops designed around team building and addressing current issues of race, class, and gender
 
--Awarded four-year, full-tuition college scholarship based on demonstrated leadership potential
+* Awarded four-year, full-tuition college scholarship based on demonstrated leadership potential
 
-Sponsors For Educational Opportunity
-Alumni
--Selected through competitive application process to engage in enrichment program for high achieving students in NYC public schools
+### **Sponsors For Educational Opportunity**
+_Alumni_
+* Selected through competitive application process to engage in enrichment program for high achieving students in NYC public schools
 
--Received ongoing guidance through college and career workshops
+* Received ongoing guidance through college and career workshops

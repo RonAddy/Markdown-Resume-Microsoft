@@ -141,16 +141,13 @@ AutoCAD
 ___
 
 ## Projects
-[New Easton Area Community Center](https://www.youtube.com/watch?v=1DJS8skHULk)
-<br>
+### [New Easton Area Community Center](https://www.youtube.com/watch?v=1DJS8skHULk)
 January 2016 to May 2016
 
-[Karl Stirner Arts Trail Musical Playground](https://sites.lafayette.edu/egrs451-fa15/ksat-playground/)
-<br>
+### [Karl Stirner Arts Trail Musical Playground](https://sites.lafayette.edu/egrs451-fa15/ksat-playground/)
 August 2015 to December 2015
 
-["Resetting the Table in The Lehigh Valley"](https://sustainability.lafayette.edu/wp-content/uploads/sites/19/2016/03/Resetting-the-Table-in-the-Lehigh-Valley-Final-Print-Version-June-2014.pdf)
-<br>
+### ["Resetting the Table in The Lehigh Valley"](https://sustainability.lafayette.edu/wp-content/uploads/sites/19/2016/03/Resetting-the-Table-in-the-Lehigh-Valley-Final-Print-Version-June-2014.pdf)
 January 2013 to May 2013
 
 ___

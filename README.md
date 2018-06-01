@@ -15,8 +15,8 @@ A dedicated tech enthusiast, with an IT and management background, seeking to ut
 
 ## Education
 
-General Assembly/Per Scholas
-Web Development Immersive
+**General Assembly/Per Scholas**
+_Web Development Immersive_
 2017
 
 NPower

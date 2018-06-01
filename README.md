@@ -35,11 +35,15 @@ _Architecture Minor_
 <br>
 2016
 
+___
+
 ## Web Development 
 
 **General Assembly**
-_Instructional Associate_
 New York, NY
+<br>
+_Instructional Associate_
+<br>
 March 2017 to Current
 
 +Instruct and mentor students throughout 12-week immersive course
@@ -52,8 +56,10 @@ March 2017 to Current
 
 
 **LionBot**
-_Developer_
 New York, NY
+<br>
+_Developer_
+<br>
 November 2017
 
 +Contributed to front-end structure and styling through numerous peer-programming sessions
@@ -67,8 +73,10 @@ November 2017
 **Project was created while at GA**
 
 **GlooPen**
-_Technology Extern_
 Easton, PA
+<br>
+_Technology Extern_
+<br>
 December 2015 to January 2016
 
 +Planned and taught constructive lessons on architecture, elements of engineering studies useful for coding design
@@ -99,6 +107,8 @@ May 2017 to July 2017
 
 -Provided technical support for software and hardware issues to users onsite and remotely 
 
+___
+
 ## Skills
 Front-End
 Javascript
@@ -123,6 +133,8 @@ Design
 Adobe Photoshop
 SketchUp
 AutoCAD
+
+___
 
 ## Projects
 [New Easton Area Community Center](https://www.youtube.com/watch?v=1DJS8skHULk)

@@ -160,7 +160,7 @@ _Alumni_
 
 * Awarded four-year, full-tuition college scholarship based on demonstrated leadership potential
 
-### **Sponsors For Educational Opportunity**
+### [**Sponsors For Educational Opportunity**](http://www.seo-usa.org/)
 _Alumni_
 * Selected through competitive application process to engage in enrichment program for high achieving students in NYC public schools
 
